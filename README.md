@@ -1,8 +1,90 @@
-# React + Vite
+# React AI Voice Assistant 🤖🎙️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered Voice Assistant built with React.js that enables users to interact using voice commands and receive intelligent responses in real time. The application provides a modern conversational experience through speech recognition and voice interaction technologies.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Voice Command Support
+- Speech Recognition
+- Real-Time AI Responses
+- Text-to-Speech Output
+- Interactive User Interface
+- Responsive Design
+- Fast and Smooth User Experience
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Vite
+- Web Speech API
+
+## 📂 Project Structure
+
+```
+React-AI-Voice-Assistant/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── vite.config.js
+```
+
+## 🎯 Learning Outcomes
+
+- Speech Recognition Integration
+- Voice Interaction Design
+- React State Management
+- Event Handling
+- API Integration
+- Responsive UI Development
+
+## ▶️ Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/React-AI-Voice-Assistant.git
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start the development server
+
+```bash
+npm run dev
+```
+
+4. Open the application in your browser.
+
+<img width="933" height="547" alt="image" src="https://github.com/user-attachments/assets/bc01872a-51bc-41f5-aa89-cf35472915dd" />
+
+
+Add screenshots here.
+
+## 🔗 Live Demo
+
+Add deployment link here.
+
+## 🌟 Future Enhancements
+
+- Multi-Language Support
+- AI Chat Integration
+- Custom Voice Selection
+- Voice History
+- Personalized Assistant Settings
+
+## 👩‍💻 Author
+
+Sakshi Parbat
+
+Frontend Developer | React.js Developer
